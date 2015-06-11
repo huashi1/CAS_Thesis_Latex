@@ -1,4 +1,4 @@
-中国科学院硕士、博士论文LaTeX模板(Latex templates of CAS thesis)
+中国科学院硕士、博士论文LaTeX模板(Latex Thesis Templates of Chinese Academy of Sciences)
 
 来源：www.ctex.org | 版本：0.2 | 作者：吴凌云(aloft) | 联系方式：aloft@ctex.org
 
@@ -7,9 +7,7 @@
 
 
 TODOs:
-
 1. 持续更新
-
 2. 完善内容
 
 欢迎加入！
