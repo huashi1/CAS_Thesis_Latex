@@ -1,0 +1,8 @@
+# To be ignored
+*.aux
+*.bbl
+*.log
+*.idx
+*.toc
+*.*.gz
+*.*~
