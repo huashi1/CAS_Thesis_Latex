@@ -1,1 +1,1 @@
-This is the first commit
+This is the first commit of the LaTex templates of CAS thesis
