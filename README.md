@@ -1,4 +1,4 @@
-# 中国科学院硕士、博士论文LaTeX模板 (Latex Thesis Templates of Chinese Academy of Sciences)
+# 中国科学院硕士、博士论文LaTeX模板  (Latex Thesis Templates of Chinese Academy of Sciences)
 
 + 来源：www.ctex.org +
 + 版本：0.2
